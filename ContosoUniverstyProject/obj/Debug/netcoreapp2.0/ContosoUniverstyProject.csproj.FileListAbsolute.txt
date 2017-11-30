@@ -1,0 +1,11 @@
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\bin\Debug\netcoreapp2.0\ContosoUniverstyProject.deps.json
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\bin\Debug\netcoreapp2.0\ContosoUniverstyProject.runtimeconfig.json
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\bin\Debug\netcoreapp2.0\ContosoUniverstyProject.runtimeconfig.dev.json
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\bin\Debug\netcoreapp2.0\ContosoUniverstyProject.dll
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\bin\Debug\netcoreapp2.0\ContosoUniverstyProject.pdb
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.csprojResolveAssemblyReference.cache
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.csproj.CoreCompileInputs.cache
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.AssemblyInfoInputs.cache
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.AssemblyInfo.cs
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.dll
+C:\Users\jcottrell\source\GitHub\ContosoUniverstyProject\trunk\ContosoUniverstyProject\obj\Debug\netcoreapp2.0\ContosoUniverstyProject.pdb
